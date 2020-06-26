@@ -1,0 +1,14 @@
+{
+    "name": "ygtomorrow/study_laravel",
+    "description": "study laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "breite",
+            "email": "1228946196@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
